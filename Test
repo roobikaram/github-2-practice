@@ -1,4 +1,5 @@
 git config --global user.name
 git config --gloibal user.email
 git config --global core.compression2
-git config config --diff.tool vlm.difff
+git config --global diff.tool vlm.diff
+
